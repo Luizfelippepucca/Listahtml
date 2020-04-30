@@ -13,5 +13,5 @@ function adicionarIngrediente(){
 function apagarIngrediente(){
     var deletar = document.getElementById("lista").innerHTML = "";
 
-   window.location.href="projetoteste.html";
+   window.location.href="index.html";
 }
